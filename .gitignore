@@ -1,0 +1,7 @@
+node_modules/
+target/
+src-tauri/target/
+.next/
+dist/
+*.db
+vault_v5_timetravel/
